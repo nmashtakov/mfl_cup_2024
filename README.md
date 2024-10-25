@@ -29,4 +29,4 @@ pip install -r requirements.txt
 ## Ресурсы
 
 - **Исследование:** [Подробнее о ходе исследования и выводах](https://telegra.ph/Issledovanie-matchej-MFL-10-24)
-- **Телеграм-канал:** [Никита про деньги и аналитику](https://t.me/+TMqCTH5y4dVkZTY6)
+- **Мой Телеграм-канал:** [Никита про деньги и аналитику](https://t.me/+TMqCTH5y4dVkZTY6)
